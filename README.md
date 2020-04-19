@@ -1,24 +1,9 @@
-# README
+# 管理者機能(ActiveAdmin) 実装練習
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+公式サイト(https://github.com/activeadmin/activeadmin)
 
-Things you may want to cover:
+## 機能実装履歴
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+- 管理者機能  
+  参考サイト https://qiita.com/enomotodev/items/5f6d9348207124a41bf9   
+  
