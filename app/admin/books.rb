@@ -15,4 +15,13 @@ ActiveAdmin.register Book do
   #   permitted
   # end
   permit_params :author_id, :title, :publish_date
+
+  form do |f|
+    f.inputs do
+      f.input :author
+      f.input :title
+      f.input :publish_date, as: :datepicker  # ここに追加
+    end
+    f.actions
+  end
 end
