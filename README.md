@@ -7,3 +7,6 @@
 - 管理者機能  
   参考サイト https://qiita.com/enomotodev/items/5f6d9348207124a41bf9   
   
+- カスタマイズ  
+  参考サイト https://qiita.com/yutackall/items/2b16d1ac2bd64dedd16e
+  
