@@ -8,5 +8,8 @@
   参考サイト https://qiita.com/enomotodev/items/5f6d9348207124a41bf9   
   
 - カスタマイズ  
-  参考サイト https://qiita.com/yutackall/items/2b16d1ac2bd64dedd16e
+  参考サイト https://qiita.com/yutackall/items/2b16d1ac2bd64dedd16e. 
+  
+- 画像投稿機能  
+  参考サイト https://teki-com.hateblo.jp/entry/2019/05/14/124107
   
