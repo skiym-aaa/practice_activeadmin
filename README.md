@@ -13,6 +13,6 @@
 - 画像投稿機能  
   参考サイト https://teki-com.hateblo.jp/entry/2019/05/14/124107
   
-- セレクトタグについて(カラム名のidを消すことで自動的にnameでセレクトタグが生成されている？)
+- セレクトタグについて(カラム名のidを消すことで自動的にnameでセレクトタグが生成されている？)  
   参考サイト https://qiita.com/yutackall/items/2b16d1ac2bd64dedd16e
   
